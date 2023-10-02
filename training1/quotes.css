@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    font-size: 50px;
+    }
+    #quote {
+    background-color: rgb(0, 188, 212);
+    text-align: center;
+    font-size: 40px;
+    padding: 80px;
+    margin: 80px;
+    max-block-size: 80px;
+    min-block-size: 80px;
+    border-radius: 50px;
+    }
+    #button {
+    font-size: 35px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 500px;
+    margin-bottom: 40px;
+    color: white;
+    }
+    
